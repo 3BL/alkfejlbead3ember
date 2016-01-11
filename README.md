@@ -46,7 +46,7 @@ a handlebars fájlok felelnek az adatbázist pedig egy restapi-s workspace bizto
 
 
 ##Modellek
-![Adatbázis modell](https://github.com/3BL/alkfejlbead1/blob/master/documentation/bead3relation.png)
+![Adatbázis modell](https://github.com/3BL/alkfejlbead3ember/blob/master/documentation/bead3relation.png)
 
 Itt egy kép látható az adatbázis modellről. Az error modell tükrözi a chiphibát akinek egy egyedi adattagja van,
 az id-ja, tehát két ugyanolyan objektum nem lehet az adatbázisban. Lehet sok hiba, mindegyikhez lehetnek
@@ -54,11 +54,11 @@ kiskutyák hozzárendelve, ez a kiskutyak adattag, egy kiskutyákat tartalmazó 
 kutyalista oldalon. ** A one-to-many kapcsolat úgy valósul meg, hogy egy error-hoz több kutya is lehet rendelve, viszont visszafele már nem működik a dolog, minden kutyához csak egy hibás chip van rendelve az id-je alapján. **
 
 ##Folyamatok
-![Adatbázis modell](https://github.com/3BL/alkfejlbead1/blob/master/documentation/bead3folyamat.png)
+![Adatbázis modell](https://github.com/3BL/alkfejlbead3ember/blob/master/documentation/bead3folyamat.png)
 
 
 ##Interfész
-![Adatbázis modell](https://github.com/3BL/alkfejlbead1/blob/master/documentation/webdesign.png)
+![Adatbázis modell](https://github.com/3BL/alkfejlbead3ember/blob/master/documentation/webdesign.png)
 
 Röviden a felhasználói interfészről. A jobb felső sarokban vannak a linkek, a főoldal link értelemszerüen az index.html-re visz,
 a hibalista link a hibás chipek oldalára, a kutyalista pedig a kutyákat listázó oldalra.
