@@ -1,0 +1,10 @@
+<dl class="dl-horizontal">
+  <dt>id</dt>
+  <dd>{{error.id}}</dd>
+  <dt>Chip modellje</dt>
+  <dd>{{error.location}}</dd>
+  <dt>Leírás</dt>
+  <dd>{{error.description}}</dd>
+</dl>
+{{link-to "Vissza" "errors.list" class="btn btn-default"}}
+{{link-to "Új kiskutya hozzáadása" "errors.newkiskutya" error.id class="btn btn-default"}}
