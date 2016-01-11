@@ -6,7 +6,7 @@
 - [Modellek](https://www.github.com/3BL/alkfejlbead3ember#modellek)
 - [Folyamatok](https://www.github.com/3BL/alkfejlbead3ember#folyamatok)
 - [Felhasználói interfész](https://www.github.com/3BL/alkfejlbead3ember#interfész)
-- [Adatok validálása](https://www.github.com/3BL/alkfejlbead3ember#Adatok validálása)
+- [Adatok ellenőrzése](https://www.github.com/3BL/alkfejlbead3ember#Adatok ellenőrzése)
 
 
 ##Leírás
